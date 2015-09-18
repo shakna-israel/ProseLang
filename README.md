@@ -7,7 +7,7 @@ ProseLang is an ongoing process in the very early stages.
 
 A full specification is not yet ready, and thus, not ready to be implemented in any language.
 
-The current endeavor to flesh out a spec is available at [concept.md](concept.md), dicussion and pull requests are welcome.
+The current endeavor to flesh out a spec is available at [ConceptualSpecification.md](ConceptualSpecification.md), dicussion and pull requests are welcome.
 
 The long term goals are:
 
